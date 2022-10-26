@@ -1,5 +1,6 @@
-- 👋 Allegra Tashjian - Biological Science Technician, Smithsonian Environmental Research Center. Carleton College Geology '20.
-- 👀 Interests: Earth System Modeling, C cycles, anthropogenic climate change, global change ecology, carbon capture technology, paleoclimate studies, isotope proxies
+- 👋 Allegra Tashjian - PhD Student, Earth and Planetary Science, Northwestern University.
+Previously: Biological Science Technician, Smithsonian Environmental Research Center. Carleton College Geology '20.
+- 👀 Interests: C cycle, anthropogenic climate change, biogeochemistry, carbon capture technology, paleoclimate studies, isotope proxies
 - 🌱 Experienced with R, adequate using python, new to C++
 - 📫 Reach me at allegra.tashjian@gmail.com
 
