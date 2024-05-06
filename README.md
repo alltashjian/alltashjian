@@ -1,6 +1,6 @@
-- 👋 Allegra Tashjian - PhD Student, Earth and Planetary Sciences, Northwestern University.
+- 👋 Allegra Tashjian - PhD Candidate, Earth and Planetary Sciences, Northwestern University.
 Previously: Biological Science Technician, Smithsonian Environmental Research Center. Carleton College Geology '20.
-- 👀 Interests: Long-term C cycle, climate change, biogeochemistry, carbon capture technology, paleoclimate studies, isotope proxies
+- 👀 Interests: Enhanced rock weathering, paleoclimatology, isotopes
 - 🌱 Experienced with R, adequate using python, new to C++
 - 📫 Reach me at allegratashjian2027@u.northwestern.edu
 
